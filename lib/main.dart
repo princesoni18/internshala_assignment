@@ -6,7 +6,7 @@ import 'package:internshala_assignment_prince_soni/features/search_page/search_s
 import 'package:internshala_assignment_prince_soni/themes/light_theme.dart';
 
 void main() {
-   WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
+  
   
   runApp(MultiBlocProvider(
     providers: [
