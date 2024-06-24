@@ -1,0 +1,1 @@
+const String apiUrl="https://internshala.com/flutter_hiring/search";
